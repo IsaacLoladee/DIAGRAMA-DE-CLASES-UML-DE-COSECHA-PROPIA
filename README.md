@@ -14,6 +14,5 @@ El enuncaciado es el siguiente, nosotros contamos con una compañía de aviones 
 ![image](https://github.com/IsaacLoladee/DIAGRAMA-DE-CLASES-UML-DE-COSECHA-PROPIA/assets/122601271/d8d30049-5168-4591-a7d8-05cb5715352c)
 
 
-## PARTE OPCIONAL
 
 
