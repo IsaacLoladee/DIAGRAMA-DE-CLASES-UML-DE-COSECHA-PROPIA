@@ -11,7 +11,7 @@ El enuncaciado es el siguiente, nosotros contamos con una compañía de aviones 
  - El avion es transportado por un piloto
  - Un cliente se sienta en un asiento
 
-![image](https://github.com/IsaacLoladee/DIAGRAMA-DE-CLASES-UML-DE-COSECHA-PROPIA/assets/122601271/d8d30049-5168-4591-a7d8-05cb5715352c)
+![image](https://github.com/IsaacLoladee/DIAGRAMA-DE-CLASES-UML-DE-COSECHA-PROPIA/assets/122601271/68582b26-ca48-4990-9b2f-da5302a34b9e)
 
 
 
