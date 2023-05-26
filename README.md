@@ -2,8 +2,7 @@
 
 ## PARTE OBLIGATORIA 
 
-El enuncaciado es el siguiente, nosotros contamos con una compañía de aviones llamado **Lufthansa** del cuál se desea tener conocimiento sobre los vuelos que realiza. Por una parte contamos con  Azafatos(almacenar número de vuelo, origen, destino, salario, experiencia), Pasajeros(almacenar número de vuelo, origen, destino, precio,  ), Pilotos (almacenar número de vuelo, origen, destino, salario, experiencia). 
-
+El enuncaciado es el siguiente, nosotros contamos con una compañía de aviones llamado **Lufthansa** del cuál se desea tener conocimiento sobre los vuelos que realiza. Los usuarios pueden ser tanto  Azafatos, Pasajeros como Pilotos. Cada uno de estos usuarios puede realzar reservas para irse de viaje.º
 
 + Un Cliente puede realizar uno o mas vuelos 
  - Un Piloto transporta a varios pasajeros
