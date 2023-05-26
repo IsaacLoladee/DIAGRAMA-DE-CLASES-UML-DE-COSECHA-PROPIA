@@ -13,7 +13,7 @@ El enuncaciado es el siguiente, nosotros contamos con una compañía de aviones 
 ![image](https://github.com/IsaacLoladee/DIAGRAMA-DE-CLASES-UML-DE-COSECHA-PROPIA/assets/122601271/68582b26-ca48-4990-9b2f-da5302a34b9e)
 
 ## PARTE OPCIONAL
-![image](https://github.com/IsaacLoladee/DIAGRAMA-DE-CLASES-UML-DE-COSECHA-PROPIA/assets/122601271/affc960a-c6f0-4b7c-b6f8-429768e08ab0)
+![image](https://github.com/IsaacLoladee/DIAGRAMA-DE-CLASES-UML-DE-COSECHA-PROPIA/assets/122601271/8100f631-ae27-4e61-ac3e-2461bef3f51b)
 
 
 
